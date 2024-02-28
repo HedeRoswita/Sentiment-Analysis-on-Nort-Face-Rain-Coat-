@@ -2,8 +2,11 @@
 
 # 1. Objective:
    
-    In this project, I leveraged web scraping techniques to collect data from Amazon.com, specifically focusing on customer reviews of the North Face raincoat jacket. Utilizing sentiment analysis, I delved into understanding the overall sentiments expressed by customers towards this product. 
-By analyzing the sentiment polarity of the reviews, I gained valuable insights into how customers perceive the North Face raincoat jacket. Moreover, I developed a predictive model capable of estimating sentiment polarity for new customer reviews. 
+    In this project, I leveraged web scraping techniques to collect data from Amazon.com, 
+specifically focusing on customer reviews of the North Face raincoat jacket.
+Utilizing sentiment analysis, I delved into understanding the overall sentiments expressed by customers towards this product. 
+By analyzing the sentiment polarity of the reviews, I gained valuable insights into how customers perceive the North Face raincoat jacket. 
+Moreover, I developed a predictive model capable of estimating sentiment polarity for new customer reviews. 
 
 # 2. Classification Modeling
    
